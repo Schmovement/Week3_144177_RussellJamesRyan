@@ -49,7 +49,7 @@ body {
 }
 
 #banner {
-    height: 400px;
+    height: 300px;
     overflow: hidden;
     border-radius: 10px;
 }
@@ -58,6 +58,7 @@ body {
     width: 100%;
     height: 100%;
     object-fit: cover;
+    object-position: top;
 }
 
 #highlight {
@@ -239,12 +240,9 @@ body {
 .social-icons a {
     display: inline-block;
     width: 25px;
-    height: 25px;
-    background: #ff007f;
     color: #fff;
     border-radius: 50%;
     text-align: center;
-    line-height: 25px;
     text-decoration: none;
     font-size: 12px;
     margin-left: 5px;
