@@ -3,13 +3,11 @@ body {
     font-family: arial;
 }
 
-/* Central Wrapper */
 #bungkus {
     width: 1000px;
     margin: 20px auto;
 }
 
-/* Header Area */
 #top {
     display: flex;
     justify-content: space-between;
@@ -50,7 +48,6 @@ body {
     color: #0056b3;
 }
 
-/* Banner */
 #banner {
     height: 400px;
     overflow: hidden;
@@ -63,7 +60,6 @@ body {
     object-fit: cover;
 }
 
-/* Highlights */
 #highlight {
     display: flex;
     justify-content: space-between;
@@ -84,7 +80,6 @@ body {
     object-fit: cover;
 }
 
-/* Description Section */
 #description {
     margin-top: 20px;
 }
