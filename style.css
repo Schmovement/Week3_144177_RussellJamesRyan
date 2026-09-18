@@ -108,7 +108,6 @@ body {
     line-height: 1.5;
 }
 
-/* Client Logos Section */
 #client {
     margin-top: 40px;
     text-align: center;
@@ -129,7 +128,6 @@ body {
     height: auto;
 }
 
-/* Testimonials Section */
 #testimonials {
     margin-top: 40px;
     text-align: center;
@@ -255,5 +253,5 @@ body {
 }
 
 .footer-right img {
-    width: 10%;
+    width: 7.5%;
 }
